@@ -1,0 +1,2 @@
+# VeriYapilari
+BİLGİSAYAR MÜHENDİSLİĞİ 2. SINIF VERİ YAPILARI
